@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Al-Saaideh! 👋
 
-### 🤖 Engineering Student | AI & Robotics Enthusiast
+### 🤖 Engineering | AI & Robotics Enthusiast
 I am a passionate developer and researcher based in **Aqaba, Jordan**. My work focuses on the intersection of Artificial Intelligence and embedded systems, with a special interest in Computer Vision and marine robotics.
 
 - 🔭 I’m currently working on **MSR (Monitoring Submarine Robot)**, an AI-powered ROV for coral reef preservation.
