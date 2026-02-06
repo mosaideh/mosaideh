@@ -4,28 +4,42 @@
 I am an engineer passionate about bridging the gap between **Software Intelligence (AI/ML)** and **Hardware Reality (Robotics)**. With a strong foundation in "Robotics Science," electronics, and computer vision, I build systems that can see, think, and act.
 
 - 🔭 I’m currently working on **MSR (Monitoring Submarine Robot)**, integrating Deep Learning with embedded systems.
-- 🧠 My core focus is **Neural Networks (NN)**, **Deep Learning (DL)**, and **Computer Vision**.
-- 🛠️ I also have a background in **Web Development** and **Electronics Circuit Design**.
+- 🧠 My core focus is **Neural Networks (NN)**, **Embedded Machine Learning (TinyML)**, and **Computer Vision**.
+- 🛠️ I also have a background in **Data Science**, **Web Development**, and **Electronics Circuit Design**.
 - 👯 I’m looking to collaborate on complex **Mechatronics** or **AI-driven IoT** projects.
 
 ---
 
 ### 🧠 Key Competencies
 
-* **Artificial Intelligence:** Machine Learning (ML), Deep Learning (DL), Neural Networks (NN), Computer Vision (YOLO, OpenCV).
+* **Artificial Intelligence:** Machine Learning (ML), Deep Learning (DL), Embedded ML (Edge Impulse), Data Science, Computer Vision (YOLO, OpenCV).
 * **Robotics Science:** Kinematics, Control Systems, Autonomous Navigation, Electronics & Circuit Design.
-* **Development:** Full-Stack Web Development, Embedded Programming.
+* **Development:** Full-Stack Web Development, Embedded Programming (Arduino/C++), Cybersecurity Basics.
+
+---
+
+### 📜 Certifications
+
+| Certification | Organization | Date |
+| :--- | :--- | :--- |
+| **Introduction to Embedded Machine Learning** | Edge Impulse (Coursera) | Feb 2025 |
+| **Artificial Intelligence (Data Science Track)** | SHAI (90 Training Hours) | May 2025 |
+| **Introduction to Cybersecurity** | Cisco Networking Academy | Aug 2025 |
+| **Embedded System (Arduino)** | TVSDC Jordan | Apr 2024 |
+| **PCAP: Programming Essentials in Python** | Python Institute / OpenEDG | Aug 2022 |
 
 ---
 
 ### 🛠️ Technology Stack
 
-**AI & Computer Vision**
+**AI & Data Science**
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Edge%20Impulse-132F4C?style=for-the-badge&logo=edgeimpulse&logoColor=white" alt="Edge Impulse"/>
+  <img src="https://img.shields.io/badge/Data%20Science-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Data Science"/>
 </p>
 
 **Robotics & Electronics**
